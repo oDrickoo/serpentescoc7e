@@ -1,6 +1,6 @@
 {
-  "title": "[CoC7e] A Serpente de Duas Cabeças",
-  "version": "1.0.1",
+  "title": "[BACKUP] A Serpente de Duas Cabeças",
+  "version": "1.0.2",
   "id": "serpentescoc7e",
   "system": "CoC7",
   "description": "<p></p>",
@@ -39,11 +39,17 @@
       "path": "packs/todos-os-itens.db",
       "system": "CoC7",
       "private": false,
-      "flags": {},
-      "id": "world.todos-os-itens",
-      "packageType": "world",
-      "packageName": "serpentescoc7e",
-      "index": []
+      "flags": {}
+    },
+    {
+      "label": "Personagens",
+      "type": "Actor",
+      "name": "personagens",
+      "path": "packs/personagens.db",
+      "system": "CoC7",
+      "private": false,
+      "flags": {}
     }
-  ]
+  ],
+  "background": "worlds/serpentescoc7e/scenes/Landing_Page.jpg"
 }
