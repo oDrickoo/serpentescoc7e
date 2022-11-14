@@ -1,6 +1,6 @@
 {
   "title": "[CoC7e] A Serpente de Duas Cabeças",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "id": "serpentescoc7e",
   "system": "CoC7",
   "description": "<p></p>",
@@ -10,6 +10,9 @@
     "verified": "10"
   },
   "systemVersion": "0.9.2",
+  "url": "https://github.com/oDrickoo/serpentescoc7e",
+  "manifest": "https://raw.githubusercontent.com/oDrickoo/serpentescoc7e/main/world.json",
+  "download": "https://github.com/oDrickoo/serpentescoc7e/archive/refs/heads/main.zip",
   "packs": [
     {
       "label": "Tabelas",
