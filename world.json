@@ -1,6 +1,6 @@
 {
   "title": "[BACKUP] A Serpente de Duas Cabeças",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "id": "serpentescoc7e",
   "system": "CoC7",
   "description": "<p></p>",
@@ -37,15 +37,6 @@
       "type": "Item",
       "name": "todos-os-itens",
       "path": "packs/todos-os-itens.db",
-      "system": "CoC7",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Personagens",
-      "type": "Actor",
-      "name": "personagens",
-      "path": "packs/personagens.db",
       "system": "CoC7",
       "private": false,
       "flags": {}
