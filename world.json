@@ -4,10 +4,10 @@
   "id": "serpentescoc7e",
   "system": "CoC7",
   "description": "<p></p>",
-  "coreVersion": "10.287",
+  "coreVersion": "10.291",
   "compatibility": {
     "minimum": "10",
-    "verified": "10"
+    "verified": "10.291"
   },
   "systemVersion": "0.9.2",
   "url": "https://github.com/oDrickoo/serpentescoc7e",
