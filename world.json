@@ -4,12 +4,12 @@
   "id": "serpentescoc7e",
   "system": "CoC7",
   "description": "<p></p>",
-  "coreVersion": "10.291",
+  "coreVersion": "11.315",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10.291"
+    "minimum": "11",
+    "verified": "11.315"
   },
-  "systemVersion": "0.9.2",
+  "systemVersion": "0.10.10",
   "url": "https://github.com/oDrickoo/serpentescoc7e",
   "manifest": "https://raw.githubusercontent.com/oDrickoo/serpentescoc7e/main/world.json",
   "download": "https://github.com/oDrickoo/serpentescoc7e/archive/refs/heads/main.zip",
@@ -18,29 +18,40 @@
       "label": "Tabelas",
       "type": "RollTable",
       "name": "tabelas",
-      "path": "packs/tabelas.db",
+      "path": "packs/tabelas",
       "system": "CoC7",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "Baralhos",
       "type": "JournalEntry",
       "name": "baralhos",
-      "path": "packs/baralhos.db",
+      "path": "packs/baralhos",
       "system": "CoC7",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "Todos os Itens",
       "type": "Item",
       "name": "todos-os-itens",
-      "path": "packs/todos-os-itens.db",
+      "path": "packs/todos-os-itens",
       "system": "CoC7",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
-  "background": "worlds/serpentescoc7e/scenes/Landing_Page.jpg"
+  "background": "worlds/serpentescoc7e/scenes/Landing_Page.jpg",
+  "lastPlayed": "Mon Jan 22 2024 03:22:03 GMT-0300 (Horário Padrão de Brasília)",
+  "safeMode": false
 }
