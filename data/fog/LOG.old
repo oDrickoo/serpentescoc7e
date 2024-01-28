@@ -1,0 +1,5 @@
+2024/01/24-02:06:14.995 2fe8 Recovering log #3
+2024/01/24-02:06:15.000 2fe8 Level-0 table #5: started
+2024/01/24-02:06:15.011 2fe8 Level-0 table #5: 234353 bytes OK
+2024/01/24-02:06:15.017 2fe8 Delete type=0 #3
+2024/01/24-02:06:15.017 2fe8 Delete type=3 #2

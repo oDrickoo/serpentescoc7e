@@ -1,0 +1,11 @@
+2024/01/24-02:06:14.806 fbc Recovering log #6
+2024/01/24-02:06:14.810 fbc Level-0 table #9: started
+2024/01/24-02:06:14.833 fbc Level-0 table #9: 1011594 bytes OK
+2024/01/24-02:06:14.840 fbc Delete type=0 #6
+2024/01/24-02:06:14.840 fbc Delete type=3 #2
+2024/01/24-02:06:23.182 3524 Compacting 1@0 + 1@1 files
+2024/01/24-02:06:23.230 3524 Generated table #11@0: 1070 keys, 1791187 bytes
+2024/01/24-02:06:23.230 3524 Compacted 1@0 + 1@1 files => 1791187 bytes
+2024/01/24-02:06:23.231 3524 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/24-02:06:23.231 3524 Delete type=2 #7
+2024/01/24-02:06:23.232 3524 Delete type=2 #9

@@ -1,0 +1,5 @@
+2024/01/24-02:06:15.527 fbc Recovering log #3
+2024/01/24-02:06:15.532 fbc Level-0 table #5: started
+2024/01/24-02:06:15.540 fbc Level-0 table #5: 135565 bytes OK
+2024/01/24-02:06:15.545 fbc Delete type=0 #3
+2024/01/24-02:06:15.545 fbc Delete type=3 #2
