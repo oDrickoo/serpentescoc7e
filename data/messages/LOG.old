@@ -1,5 +1,14 @@
-2024/01/24-02:06:14.935 fbc Recovering log #3
-2024/01/24-02:06:14.935 fbc Level-0 table #5: started
-2024/01/24-02:06:14.939 fbc Level-0 table #5: 5831 bytes OK
-2024/01/24-02:06:14.944 fbc Delete type=0 #3
-2024/01/24-02:06:14.944 fbc Delete type=3 #2
+2024/01/28-14:26:01.789 1d04 Recovering log #6
+2024/01/28-14:26:01.797 1d04 Delete type=0 #6
+2024/01/28-14:26:01.797 1d04 Delete type=3 #4
+2024/01/28-15:48:33.254 3644 Level-0 table #10: started
+2024/01/28-15:48:33.267 3644 Level-0 table #10: 1216 bytes OK
+2024/01/28-15:48:33.268 3644 Delete type=0 #8
+2024/01/28-15:48:33.309 3644 Manual compaction at level-0 from '!messages!6zmiSFdHRJ5iksdw' @ 72057594037927935 : 1 .. '!messages!vCzuFL878YMdUZDd' @ 0 : 0; will stop at '!messages!JSnjSRtSrdaSRkDa' @ 8 : 1
+2024/01/28-15:48:33.309 3644 Compacting 2@0 + 0@1 files
+2024/01/28-15:48:33.312 3644 Generated table #11@0: 7 keys, 5831 bytes
+2024/01/28-15:48:33.312 3644 Compacted 2@0 + 0@1 files => 5831 bytes
+2024/01/28-15:48:33.313 3644 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/01/28-15:48:33.314 3644 Delete type=2 #5
+2024/01/28-15:48:33.314 3644 Delete type=2 #10
+2024/01/28-15:48:33.320 3644 Manual compaction at level-0 from '!messages!JSnjSRtSrdaSRkDa' @ 8 : 1 .. '!messages!vCzuFL878YMdUZDd' @ 0 : 0; will stop at (end)
