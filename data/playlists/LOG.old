@@ -1,13 +1,16 @@
-2024/01/28-14:26:02.090 1d04 Recovering log #6
-2024/01/28-14:26:02.096 1d04 Delete type=0 #6
-2024/01/28-14:26:02.096 1d04 Delete type=3 #4
-2024/01/28-15:48:33.603 3644 Level-0 table #10: started
-2024/01/28-15:48:33.604 3644 Level-0 table #10: 0 bytes OK
-2024/01/28-15:48:33.606 3644 Delete type=0 #8
-2024/01/28-15:48:33.634 3644 Manual compaction at level-0 from '!playlists!9oB24p743I87j82C' @ 72057594037927935 : 1 .. '!playlists.sounds!xWawOnJctFCm9P5E.o8cgRyFyoRHLPGe7' @ 0 : 0; will stop at '!playlists.sounds!xWawOnJctFCm9P5E.o8cgRyFyoRHLPGe7' @ 80 : 1
-2024/01/28-15:48:33.635 3644 Compacting 1@0 + 0@1 files
-2024/01/28-15:48:33.637 3644 Generated table #11@0: 81 keys, 12027 bytes
-2024/01/28-15:48:33.637 3644 Compacted 1@0 + 0@1 files => 12027 bytes
-2024/01/28-15:48:33.639 3644 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/01/28-15:48:33.639 3644 Delete type=2 #5
-2024/01/28-15:48:33.652 3644 Manual compaction at level-0 from '!playlists.sounds!xWawOnJctFCm9P5E.o8cgRyFyoRHLPGe7' @ 80 : 1 .. '!playlists.sounds!xWawOnJctFCm9P5E.o8cgRyFyoRHLPGe7' @ 0 : 0; will stop at (end)
+2024/02/03-01:30:59.748 c68 Recovering log #13
+2024/02/03-01:30:59.750 c68 Level-0 table #15: started
+2024/02/03-01:30:59.754 c68 Level-0 table #15: 34979 bytes OK
+2024/02/03-01:30:59.759 c68 Delete type=0 #13
+2024/02/03-01:30:59.759 c68 Delete type=3 #12
+2024/02/03-01:31:35.396 467c Level-0 table #18: started
+2024/02/03-01:31:35.396 467c Level-0 table #18: 0 bytes OK
+2024/02/03-01:31:35.397 467c Delete type=0 #16
+2024/02/03-01:31:35.407 467c Manual compaction at level-0 from '!playlists!6XbUI03gdRPr0mRO' @ 72057594037927935 : 1 .. '!playlists.sounds!sa8VT7Dg2ku1y2Qh.xhrkuTrKC5WJnA16' @ 0 : 0; will stop at '!playlists.sounds!xWawOnJctFCm9P5E.o8cgRyFyoRHLPGe7' @ 171 : 0
+2024/02/03-01:31:35.407 467c Compacting 1@0 + 1@1 files
+2024/02/03-01:31:35.411 467c Generated table #19@0: 73 keys, 10133 bytes
+2024/02/03-01:31:35.411 467c Compacted 1@0 + 1@1 files => 10133 bytes
+2024/02/03-01:31:35.412 467c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/03-01:31:35.412 467c Delete type=2 #11
+2024/02/03-01:31:35.412 467c Delete type=2 #15
+2024/02/03-01:31:35.427 467c Manual compaction at level-0 from '!playlists.sounds!xWawOnJctFCm9P5E.o8cgRyFyoRHLPGe7' @ 171 : 0 .. '!playlists.sounds!sa8VT7Dg2ku1y2Qh.xhrkuTrKC5WJnA16' @ 0 : 0; will stop at (end)
