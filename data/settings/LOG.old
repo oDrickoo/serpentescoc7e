@@ -1,5 +1,8 @@
-2024/03/18-15:37:26.407100 ffff9efdf040 Recovering log #58
-2024/03/18-15:37:26.413633 ffff9efdf040 Level-0 table #61: started
-2024/03/18-15:37:26.417432 ffff9efdf040 Level-0 table #61: 167746 bytes OK
-2024/03/18-15:37:26.421188 ffff9efdf040 Delete type=0 #58
-2024/03/18-15:37:26.421245 ffff9efdf040 Delete type=3 #56
+2024/03/31-22:31:39.052135 ffffab7ef040 Recovering log #62
+2024/03/31-22:31:39.052508 ffffab7ef040 Level-0 table #64: started
+2024/03/31-22:31:39.055889 ffffab7ef040 Level-0 table #64: 1150 bytes OK
+2024/03/31-22:31:39.058710 ffffab7ef040 Delete type=0 #62
+2024/03/31-22:31:39.058740 ffffab7ef040 Delete type=3 #60
+2024/04/01-01:00:06.018257 ffffaa6f3040 Level-0 table #67: started
+2024/04/01-01:00:06.030049 ffffaa6f3040 Level-0 table #67: 543185 bytes OK
+2024/04/01-01:00:06.032536 ffffaa6f3040 Delete type=0 #65

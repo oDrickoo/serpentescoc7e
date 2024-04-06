@@ -1,3 +1,11 @@
-2024/03/31-22:31:38.721126 ffffab7ef040 Recovering log #55
-2024/03/31-22:31:38.725407 ffffab7ef040 Delete type=0 #55
-2024/03/31-22:31:38.725451 ffffab7ef040 Delete type=3 #53
+2024/04/06-00:59:39.632 27ac Recovering log #58
+2024/04/06-00:59:39.633 27ac Level-0 table #60: started
+2024/04/06-00:59:39.640 27ac Level-0 table #60: 107460 bytes OK
+2024/04/06-00:59:39.645 27ac Delete type=2 #11
+2024/04/06-00:59:39.645 27ac Delete type=0 #23
+2024/04/06-00:59:39.646 27ac Delete type=2 #39
+2024/04/06-00:59:39.646 27ac Delete type=0 #41
+2024/04/06-00:59:39.646 27ac Delete type=0 #58
+2024/04/06-00:59:39.646 27ac Delete type=3 #22
+2024/04/06-00:59:39.646 27ac Delete type=3 #40
+2024/04/06-00:59:39.647 27ac Delete type=3 #57
